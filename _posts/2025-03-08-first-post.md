@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "Welcome"
+date: 2024-03-08
+categories: [Personal]
+tags: [welcome, first-post]
 ---
 
 I decided I wanted to add more creativity into my life, and start blogging. It's not something I've ever managed to do with any real consistency before, but I am (perhaps unjustifiably) optimistic!
