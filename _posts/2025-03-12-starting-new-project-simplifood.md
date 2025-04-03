@@ -1,9 +1,8 @@
-
 ---
 layout: post
 title: "Starting a new project - Simplifood"
 date: 2025-03-12
-categories: [Simplifood, Web Development]
+categories: [Web Development, Simplifood]
 tags: [side-project, learning, react, rails, tailwind, accessibility, neurodiversity, cooking, recipes, pwa, ai-assisted]
 ---
 
