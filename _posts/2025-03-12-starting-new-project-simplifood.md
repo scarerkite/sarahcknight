@@ -6,8 +6,6 @@ categories: [Web Development, Simplifood]
 tags: [side-project, learning, react, rails, tailwind, accessibility, neurodiversity, cooking, recipes, pwa, ai-assisted]
 ---
 
-## Intro
-
 I'm currently (f)unemployed, and in between living my best life of reading, playing boardgames, watching TV and hanging out with my dog and partner, I decided to embark on one of those "side projects" I've heard so much about.
 ## A side project you say?
 
@@ -49,20 +47,20 @@ I plan to build a Progressive Web App (a website that has some app-like features
 
 I want to work with a generative AI to aid with infrastructure and coding - I'm interested to find out the capabilities and limitations of working with AI for a full project.
 
-**Backend - Ruby on Rails**
+### Backend - Ruby on Rails
 This is what I am most familiar with, and can work fastest with. I think an Object Oriented approach makes sense for the flexibility required. There will be multiple relationships between entities (e.g. recipes, ingredients, steps) where changing one, will affect other entities and I think a relational structure makes sense.
 
-**Frontend - React with Tailwind CSS**
+### Frontend - React with Tailwind CSS
 These are both new to me (after a brief foray into React 10 years ago), but I'm excited to try them.
 I think React is a good choice for a highly interactive UI due to its state management to help track recipe modifications, and the Virtual DOM to efficiently update without a full page reload.
 I have only really used Bootstrap in the past, and wanted to explore a more modern CSS framework like Tailwind CSS which I understand is growing in popularity. I'm also interested in trying utility-first approach, as I haven't used this before.
 
-**Ops**
+### Ops
 Choices here are mostly based on low cost, as well as ease of use. (And may change once I start developing in earnest):
 
-**Hosting**: Fly.io - it seems like a more affordable alternative to Heroku at this early stage
-**Database**: Neon - a free tier for Postgres db
-**Bug tracking**: Sentry - a free tier for solo developers
+**Hosting**: Fly.io - it seems like a more affordable alternative to Heroku at this early stage\
+**Database**: Neon - a free tier for Postgres db\
+**Bug tracking**: Sentry - a free tier for solo developers\
 **CI**: Github actions - I've been wanting to explore this, and seems like a cost effective solution
 ## Learning Goals
 
@@ -93,5 +91,5 @@ I want to help people who feel overwhelmed by cooking, to learn to cook some sim
 
 Even if nobody else apart from me ever uses this app, I'm excited to finally have one place where I can store my favourite recipes to cook from, for when I'm feeling hungry and overwhelmed.
 
-If you think that Simplifood might be something you would find helpful, please take some time to fill out this questionnaire (it should take you no more than 5-10 mins): https://forms.gle/hngtMdtpWGg1sXZZ8
+If you think that Simplifood might be something you would find helpful, please take some time to fill out [this questionnaire](https://forms.gle/hngtMdtpWGg1sXZZ8) (it should take you no more than 5-10 mins).
 
